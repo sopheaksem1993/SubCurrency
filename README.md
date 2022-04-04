@@ -1,1 +1,1 @@
-"# SubCurrency" 
+# Smart contract for SubCurrency
