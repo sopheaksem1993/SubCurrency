@@ -1,1 +1,1 @@
-"# SubCurrency" 
+# SubCurrency
